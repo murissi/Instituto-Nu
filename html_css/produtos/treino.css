@@ -1,0 +1,11 @@
+#titulo {
+  color: red;
+}
+center .link {
+  color: blue;
+}
+.paragrafo, .link {
+  color: darkgreen;
+  font-size: 23px;
+  text-decoration: none;
+}
