@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+}
+
+div {
+  border: 5px solid red;
+  background-color: black;
+  color: white;
+  width: 80px;
+  height: 50px;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-family: Arial;
+  font-style: italic;
+}
