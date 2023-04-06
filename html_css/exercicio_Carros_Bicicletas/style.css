@@ -1,0 +1,39 @@
+body {
+  font-family: Arial
+}
+
+#titulo{
+  text-align: center;
+}
+
+.produto {
+  display: inline;
+  color: white;
+}
+.preco {
+  display: inline;
+  color: #febe01;
+}
+div {
+  background: #111;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px;
+}
+
+p {
+  color: white;
+}
+
+p span {
+  color: #febe01;
+}
+
+button {
+  border: none;
+  color: #332200;
+  background-color: #febe01;
+  border-radius: 4px;
+  padding: 15px;
+  font-size: 18px;
+}
